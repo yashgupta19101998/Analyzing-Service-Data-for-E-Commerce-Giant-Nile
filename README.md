@@ -25,6 +25,7 @@ Improved Efficiency: Reduced response times and increased capacity to handle cus
 Higher Customer Satisfaction: Enhanced customer experiences leading to increased satisfaction and loyalty.
 Data-Driven Decision Making: Informed decisions based on comprehensive data analysis, leading to continuous improvement in customer service operations.
 
+![image](https://github.com/user-attachments/assets/8b8785e5-60f0-44cb-91dd-0fb227c1bdac)
 
 Timeline
 
